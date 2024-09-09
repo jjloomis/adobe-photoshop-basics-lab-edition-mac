@@ -2,7 +2,7 @@
 
 ## About
 
-Adobe Photoshop 2023 Basics | macOS Edition for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu/).
+Adobe Photoshop 2024 Basics | macOS Edition for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu/).
 
 ## Credits
 
