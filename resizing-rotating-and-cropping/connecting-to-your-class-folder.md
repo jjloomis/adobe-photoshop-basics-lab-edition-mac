@@ -4,6 +4,8 @@ Before you begin working in Audition, you'll need to connect to your class folde
 
 Two methods for connecting to your class folder are listed below (you only need to use one of them.)
 
+{% embed url="https://youtu.be/TkhMZQ78RXU" %}
+
 ### Link to class folders
 
 1. [Click here to connect to your class folder](smb://ad.uwm.edu/Shares/\_U\_LS/Courses/JAMS) using a JAMS Lab or CCL Mac.
